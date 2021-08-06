@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 4px;
+        font-family: PingFangSC-Regular, PingFang SC;
+      }
+
+      .cls-2 {
+        font-family: IBMPlexSans, IBM Plex Sans;
+      }
+    </style>
+  </defs>
+  <g id="Group_11725" data-name="Group 11725" transform="translate(-6594 3555)">
+    <circle id="Ellipse_575" data-name="Ellipse 575" cx="13" cy="13" r="13" transform="translate(6594 -3555)"/>
+    <text id="德州推广1" class="cls-1" transform="translate(6598 -3540)"><tspan x="0" y="0">德州推广</tspan><tspan class="cls-2" y="0">1</tspan></text>
+  </g>
+</svg>

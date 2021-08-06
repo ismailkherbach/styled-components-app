@@ -1,0 +1,51 @@
+h1 {
+  color: var(--dark);
+  font-size: 28px;
+  font-family: "SF Pro Text";
+}
+
+h2 {
+  color: var(--dark);
+  font-size: 22px;
+  font-family: "SF Pro Text";
+}
+
+h4 {
+  color: var(--dark);
+  font-size: 16px;
+  font-family: "SF Pro Text";
+  font-weight: 400;
+}
+
+p {
+  color: var(--dark);
+  font-size: 14px;
+  font-family: "SF Pro Text";
+}
+
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--dark);
+  &:visited {
+    text-decoration: none;
+    color: var(--dark);
+  }
+  &:hover,
+  &:active {
+    text-decoration: none;
+  }
+}
+
+select {
+  resize: none;
+  background: none;
+  outline: none;
+  border: none;
+  font-family: "SF Pro Text";
+  font-weight: 500;
+}
+
+textarea {
+  font-family: "SF Pro Text";
+}
